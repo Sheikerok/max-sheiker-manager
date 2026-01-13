@@ -1,4 +1,5 @@
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e88376be-ad2f-417a-8b70-e3ce549d16e2" />
+<img width="1186" height="332" alt="image" src="https://github.com/user-attachments/assets/9adfabca-c36c-4952-b3d8-240bb75bb656" />
+
 
 # MAX Sheiker Manager — Proffesional Account Manager
 
