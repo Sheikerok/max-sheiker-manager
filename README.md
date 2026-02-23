@@ -1,4 +1,4 @@
-<img width="1186" height="332" alt="image" src="https://github.com/user-attachments/assets/e365ed4c-edfa-4506-91dc-1a57c61dc8fe" />
+<img width="1920" height="1013" alt="image" src="https://github.com/user-attachments/assets/d3eb1038-ac07-4e1d-a015-113372e1088a" /><img width="1186" height="332" alt="image" src="https://github.com/user-attachments/assets/e365ed4c-edfa-4506-91dc-1a57c61dc8fe" />
 <img width="1027" height="140" alt="image" src="https://github.com/user-attachments/assets/46f0da50-6fd7-4d4c-9c89-118a671def39" />
 
 # MAX Sheiker Manager — Professional Account Manager
@@ -118,12 +118,12 @@
 7.  **Обновите профили**: Нажмите "🔄 Обновить профили выбранных аккаунтов".
 
 ### 📁 Формат файлов с именами/фамилиями
+```
 Иван
 Петр
 Сергей
 Анна
-
-text
+```
 Каждое значение с новой строки.
 
 <img width="1920" height="1014" alt="image" src="https://github.com/user-attachments/assets/6096deb2-407f-402d-8412-3db7838fd4df" />
