@@ -59,7 +59,8 @@
     *   Рядом с прокси будет указана страна (ГЕО), определенная по его IP.
 5.  **Управление**: Выделите прокси в списке и используйте кнопки **"Удалить"** или **"Проверить прокси"** для ручной проверки.
 
-<img width="1920" height="1015" alt="image" src="https://github.com/user-attachments/assets/639fcf5f-7c59-4ff4-a3af-ab386ab44b5f" />
+<img width="1920" height="1013" alt="image" src="https://github.com/user-attachments/assets/01335208-7804-4e23-b6f8-8a9b1a3b42c7" />
+
 
 ---
 
